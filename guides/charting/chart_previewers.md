@@ -46,7 +46,7 @@
 
 
 
-![img](https://lh3.googleusercontent.com/QrkiAG7_JV-kEHhWpapn43drUJX9UxpYQO_qK_91kiVZL3Ypmq798gtYU5MEsCRblZ2yy_INBvHR-XQQ2zwHXIdj5xU99PsWLnGBCUIy9Kp2_JlBrCSv=w1175)
+![img](https://github.com/Teages/Cytoid-wiki-Chinese/blob/master/guides/charting/chartpreviewer/1.png)
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-![img](https://lh5.googleusercontent.com/juLphyO89rC_5N_BDAWiVyk1KCAOX0fa0RIE1p9Vk2NS6YL2_PraerBRXnWpfAXzGP79rH-EN5iixZ7w-F-LIPClezrLBo2qVo5Tm6cukNbUgZ2T1XVN=w472)
+![img](https://github.com/Teages/Cytoid-wiki-Chinese/blob/master/guides/charting/chartpreviewer/2.png)
 
 
 
@@ -66,7 +66,7 @@
 
 
 
-![img](https://lh3.googleusercontent.com/XCwh9AaIZn3g-78ZeiSUCdQfbJMYzehXP2Osw6b4XekrWQbFitEtqNIN1_wD1Ik18BiV7gzDo7L8BVHVW0K2zqJgIyLOAvhept5KgSP6gp6eiU8h2Ec=w472)
+![img](https://github.com/Teages/Cytoid-wiki-Chinese/blob/master/guides/charting/chartpreviewer/3.png)
 
 将您的文件放在此“player”文件夹中。
 
@@ -90,7 +90,7 @@
 
 下载Ver.0.7。把它解压到合适的地方。下载Ver.0.8并覆盖解压到ver.0.7的的文件夹。将文件夹“I”里面的文件移动到PlayerDemo.exe所在的文件夹中。
 
-如果您点击PlayerDemo.exe，您将看到suconh制作的酷炫酷谱面。这是一个展示C2格式有多强大的谱面演示（它实际上不是人玩的，所以不要因为它看起来对你来说很难的而沮丧）。
+如果您点击PlayerDemo.exe，您将看到suconh制作的酷炫谱面。这是一个展示C2格式有多强大的谱面演示（它实际上不是人玩的，所以不要因为它看起来对你来说很难而沮丧）。
 
 但我们不是来玩Suconh的谱面的。我们希望Chart Player能够播放我们自己的谱面。
 
@@ -130,7 +130,7 @@
 
 
 
-![img](https://lh6.googleusercontent.com/9B13wiIdPjMKQirAQm1uqRxn1KR5trHOeAS2VUFwx6EweQ5OWqfbGKIJ_D-GV1xzZzm_i38c61e9sgpeFm6et2yTTjoZH4JMTYUGvdv2d2ztaKI6qv3c=w1175)
+![img](https://github.com/Teages/Cytoid-wiki-Chinese/blob/master/guides/charting/chartpreviewer/5.png)
 
 
 
@@ -140,7 +140,7 @@
 
 
 
-![img](https://lh4.googleusercontent.com/hFYWbJGZUTstrBvPZGgkchgF0nYhON_fZ0GdQnWA3SG4WBEURANRils1C0zP0qINB6_3pcUpD-9hypNqRoUHfs9vel6zpXMBTbambBXTvc7uiI7wBlg=w1175)
+![img](https://github.com/Teages/Cytoid-wiki-Chinese/blob/master/guides/charting/chartpreviewer/6.png)
 
 
 
@@ -148,7 +148,7 @@
 
 
 
-![img](https://lh6.googleusercontent.com/zTbxbYOuqDcevzq3pUW9SI7OACPlqHOX8aIueg1E2UYMc01VCimLuZKkGkRIBDtYLFUezOsmAnTYOLaj6NDtD1yOoPXeCJNm3H0LQqgUSmhw7bopBrOx=w1175)
+![img](https://github.com/Teages/Cytoid-wiki-Chinese/blob/master/guides/charting/chartpreviewer/7.png)
 
 
 
@@ -164,4 +164,4 @@
 
 
 
-![img](https://lh6.googleusercontent.com/7_I_35-Cbynh_egS1tbidOsH3mWI_rcSCNW0V8cQcGRW8MmZe1L4WpTHHAluuGCNGEKva3SvVC-WqX4Ip9xEs8ibS02yg4BnlEY38dMjSyglQxTiNps=w1175)
+![img](https://github.com/Teages/Cytoid-wiki-Chinese/blob/master/guides/charting/chartpreviewer/8.png)
