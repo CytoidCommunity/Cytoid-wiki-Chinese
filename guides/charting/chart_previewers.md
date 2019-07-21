@@ -3,7 +3,7 @@
 它们是：
 
 - TigerHix的Cytoid Player
-- Suconh的Cytus 2排行榜球员
+- Suconh的Cytus 2 Chart Player
 
 这两个软件都可以从[General Resources](https://sites.google.com/site/cytoidcommunity/general-resources)下载。
 
