@@ -8,6 +8,6 @@
 
 [level_json](https://github.com/Teages/Cytoid-wiki-Chinese/blob/master/guides/charting/extra/level_json.md)
 
-[模板](https://github.com/Teages/Cytoid-wiki-Chinese/blob/master/guides/charting/extra/patterns.md)
+[Note摆放类别](https://github.com/Teages/Cytoid-wiki-Chinese/blob/master/guides/charting/extra/patterns.md)
 
 [视频指南](https://github.com/Teages/Cytoid-wiki-Chinese/blob/master/guides/charting/extra/video_guides.md)
