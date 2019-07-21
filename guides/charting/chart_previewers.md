@@ -7,7 +7,7 @@
 
 这两个软件都可以从[General Resources](https://sites.google.com/site/cytoidcommunity/general-resources)下载。
 
-> 译者注:或许你访问不了这个链接,不过不用担心,群里有这些的链接
+> 译者注:或许你访问不了这个链接,不过不用担心,群里有这些的文件。
 
 本指南介绍如何设置这些预览软件。
 
@@ -19,7 +19,7 @@
 
 要求：
 
-- 你的图表的Wav音频。（您可以使用Audacity来实现此目的）
+- 你的谱面的Wav音频。（您可以使用Audacity来实现此目的）
 - 你的谱面本身。
 - level.json（与Cytoid相同的格式）
 - 背景（.jpg或.png）
@@ -29,12 +29,12 @@
 优点：
 
 - 支持实时故事板编辑。
-- 对C1图表格式的固有支持。
+- 对C1谱面格式的固有支持。
 
 缺点：
 
 - 有时候会有延迟。
-- Cytoid UI相当基础。
+- Cytoid UI相当简陋。
 
 
 
@@ -60,7 +60,7 @@
 
 转到LocalLow> TigerHix> Cytoid
 
-你会看到这些物品。我们感兴趣的是“player”文件夹。如果你还没有运行Cytoid Player一次，很可能没有TigerHix文件夹或Cytoid文件夹，很可能甚至没有这些项目。
+你会看到这些文件。我们感兴趣的是“player”文件夹。如果你还没有运行Cytoid Player一次，很可能没有TigerHix文件夹或Cytoid文件夹，很可能甚至没有这些项目。
 
 如果在运行Cytoid Player一次后没有Player文件夹，则只需创建该文件夹。
 
@@ -88,9 +88,9 @@
 
 设置：
 
-下载Ver.0.7。把它解压到合适的地方。下载Ver.0.8并覆盖解压到ver.0.7的的文件夹。转到文件夹“I”并将里面的文件移动到PlayerDemo.exe所在的文件夹中。
+下载Ver.0.7。把它解压到合适的地方。下载Ver.0.8并覆盖解压到ver.0.7的的文件夹。将文件夹“I”里面的文件移动到PlayerDemo.exe所在的文件夹中。
 
-如果您点击PlayerDemo.exe，您将看到suconh制作的酷炫酷谱面。这是一个关于C2格式有多强大的演示（它实际上不是人玩的，所以不要因为它看起来对你来说很难的而沮丧）。
+如果您点击PlayerDemo.exe，您将看到suconh制作的酷炫酷谱面。这是一个展示C2格式有多强大的谱面演示（它实际上不是人玩的，所以不要因为它看起来对你来说很难的而沮丧）。
 
 但我们不是来玩Suconh的谱面的。我们希望Chart Player能够播放我们自己的谱面。
 
@@ -98,7 +98,7 @@
 
 要求：
 
-- 你的图表的Wav音频。（使用Audacity转换）
+- 你的谱面的Wav音频。（使用Audacity转换）
 - 你的谱面本身。
 - SETTINGS.TXT
 - 背景（必须是.png）。
@@ -106,7 +106,7 @@
 
 
 
-将您的Wav音频，图表，背景和徽标放入PlayerDemo.exe所在的文件夹中。将其命名为统一的内容，以便您可以轻松跟踪您所拥有的文件。
+将您的Wav音频，图表，背景和徽标放入PlayerDemo.exe所在的文件夹中。将其命名为统一的内容，以便您可以轻松追溯您所拥有的文件。
 
 例如：
 
@@ -119,13 +119,14 @@
 
 将settings.txt重命名为简单的内容，以便将来提醒您该文件的设置。
 
-假设这是你第一次，settings.txt很可能是“我通过MXM”的配置，这是suconh的图表。
+假设这是你第一次配置settings.txt，settings.txt里面很可能是“I by MXM”的配置。（I是suconh的谱面。）
 
-对我来说，我将其重命名为“settings- [title] .txt”，在这种情况下，它是“settings-I.txt”
+我个人会将其重命名为“settings- [title] .txt”，在当前情况下，它应该是“settings-I.txt”
+
+> 译者注：修改settings名称不是必须的，你也可以保留原有的名称，并在每次需要预览不同谱面的时候编辑settings信息。
 
 
-
-打开现在重命名的设置-It文件，复制内部的所有内容，然后转到[https://jsoneditoronline.org/](https://www.google.com/url?q=https%3A%2F%2Fjsoneditoronline.org%2F&sa=D&sntz=1&usg=AFQjCNEg1DlNDixbJtlahsjvW2Qe_QtkKg)。
+打开现在重命名的settings-I.txt文件，复制内部的所有内容，然后转到[https://jsoneditoronline.org/](https://www.google.com/url?q=https%3A%2F%2Fjsoneditoronline.org%2F&sa=D&sntz=1&usg=AFQjCNEg1DlNDixbJtlahsjvW2Qe_QtkKg)。
 
 
 
@@ -133,7 +134,7 @@
 
 
 
-粘贴到左窗格，然后单击页面中间的右箭头（上面的框）将它们解析到右窗格。
+粘贴到左区，然后单击页面中间的右箭头（上面的框）将它们解析到右区。
 
 根据需要进行编辑，对于下面的屏幕截图，我使用Bentux的Dizzolve谱面配置。
 
@@ -143,7 +144,7 @@
 
 
 
-在右窗格中编辑后，您可以使用页面中间的第二个框（向左箭头）向后解析。
+在右区中编辑后，您可以使用页面中间的第二个框（向左箭头）向后解析。
 
 
 
@@ -153,7 +154,7 @@
 
 解析后按此按钮删除空格。
 
-现在复制左侧窗格中的所有文本，然后返回到资源管理器窗口。创建settings.txt并将此文本粘贴到该文件。保存。您可以单击PlayerDemo.exe立即播放您的图表。
+现在复制左区中的所有文本，然后返回到资源管理器窗口。创建settings.txt并将此文本粘贴到该文件。保存。您可以单击PlayerDemo.exe立即播放您的谱面。
 
 
 
