@@ -5,7 +5,7 @@ PCTyx是JCEXE制作的制谱程序。作为Project Thrynox的继任者。该指�
 这是对PCTyx制谱的介绍。CrowFX（某些部分已过时）提供了更为详细和更简单的PCTyx指南，您可以在此处查看。
 
 - [用户界面](https://sites.google.com/site/cytoidcommunity/guides/charting/introduction-pctyx/pctyx-user-interface-old)
-- [制图](https://sites.google.com/site/cytoidcommunity/guides/charting/introduction-pctyx/pctyx-charting-old)
+- [制谱](https://sites.google.com/site/cytoidcommunity/guides/charting/introduction-pctyx/pctyx-charting-old)
 
 > 译者:这两个页面因为过时所以没翻译,请自备工具访问
 
