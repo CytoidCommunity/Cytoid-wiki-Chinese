@@ -1,6 +1,6 @@
 # PCTyx
 
-PCTyx是JCEXE制作的制谱程序。作为Project Thrynox的继任者。该指南已针对C2格式标准进行了更新。
+PCTyx是JCEXE制作的制谱程序,也是Project Thrynox的继任者。该指南已针对C2格式标准进行了更新。
 
 这是对PCTyx制谱的介绍。CrowFX（某些部分已过时）提供了更为详细和更简单的PCTyx指南，您可以在此处查看。
 
@@ -25,7 +25,7 @@ PCTyx是JCEXE制作的制谱程序。作为Project Thrynox的继任者。该指�
 
 
 
-**1.** 加载按钮：打开/继续项目。您必须至少打开支持的音频文件才能开始制谱。
+**1.** 加载按钮（Loading）：打开/继续项目。您必须打开支持的音频文件才能开始制谱。
 
  支持的文件格式包括：
 
@@ -39,7 +39,7 @@ PCTyx是JCEXE制作的制谱程序。作为Project Thrynox的继任者。该指�
 
 ​        **b.** 谱面文件
 
-- .csv - 保存谱面时，这是您会获得的文件类型。如果你正在制作一个c2格式的谱面，请使用它。
+- .csv - 保存谱面时，程序会生成的文件类型。如果你正在制作一个c2格式的谱面，请使用csv文件。
 - .cytus.txt - 用于Cytus 1和Cytoid的通用格式
 
 
@@ -58,7 +58,7 @@ PCTyx是JCEXE制作的制谱程序。作为Project Thrynox的继任者。该指�
 
 
 
-**2.** 有问题(?)：[http://cytus-fanon.wikia.com/wiki/User_blog](http://cytus-fanon.wikia.com/wiki/User_blog)的超链接。这用于检查PCtyx的更新，或向开发人员JCEXE询问/报告错误。
+**2.** 问号(?)：为[http://cytus-fanon.wikia.com/wiki/User_blog](http://cytus-fanon.wikia.com/wiki/User_blog)的超链接。这用于检查PCtyx的更新，或向开发人员JCEXE询问/报告错误。
 
 要启动新项目，请单击加载按钮，然后选择谱面所需的音频文件。
 
@@ -78,13 +78,13 @@ PCTyx是JCEXE制作的制谱程序。作为Project Thrynox的继任者。该指�
 
 
 
-**1.** 扫描线按钮：转到扫描线部分。
+**1.** 扫描线按钮（Scanline）：转到扫描线界面。
 
-**2.** 加载：加载您需要的更多文件。
+**2.** 加载（Load）：加载您需要的更多文件。
 
-**3.** 保存：保存.csv文件。建议您停止制图时，或者如果您要长时间制作图表时每隔一小时保存一次，以防意外发生。如果您使用C2格式绘制图表，则需要.csv才能使转换器正常工作。
+**3.** 保存（Save）：保存.csv文件。建议您停止制图时，或者如果您要长时间制作图表时每隔一小时保存一次，以防意外发生。如果您使用C2格式绘制图表，则需要.csv才能使转换器正常工作。
 
-**4.** 导出：仅在制作c1图表时使用，这会将所有图表数据转换为c1格式(将删除C2特性的note)。
+**4.** 导出（Export）：仅在制作c1图表时使用，这会将所有图表数据转换为c1格式(将删除C2特性的note)。
 
 
 
@@ -92,11 +92,11 @@ PCTyx是JCEXE制作的制谱程序。作为Project Thrynox的继任者。该指�
 
 
 
-![img](https://lh6.googleusercontent.com/2UFiQZTmjPa2n1sXDy7o3iyGG-0wOU4cVA5b600ySoa8qiWJ_zRHwdAIpujjKeWIacgeF9qpNwLTHmZ7TcfX5aPZzQVPbS3kwUg9rgm1fZ0icZIPacc=w1175)
+![img](./9.png)
 
 
 
-**1.** File：如果需要添加其他文件，请按此键找到第二个界面。
+**1.** File：如果需要添加其他文件，按此键找到第二个界面。
 
 **2.** Editor：使用它来转到编辑器。
 
@@ -104,7 +104,7 @@ PCTyx是JCEXE制作的制谱程序。作为Project Thrynox的继任者。该指�
 
 **4.** BPM：扫描线的速度，或歌曲的BPM。在这里插入bpm，但是如果你想让扫描线比原始的bpm更快，我建议只使用x0.5，x1.0，x1.5或x2.0的倍数。可以使用任何其他内容，但请确保扫描线处于同步状态。
 
-**5.** Shift：调整歌曲的偏移，使扫描线折返时可以匹配音乐的节拍。插入歌曲第一个重拍的时间。如果使用offset，只需将其设置为0即可。(为保证兼容性,请尽量设置为0)
+**5.** Shift：调整歌曲的偏移，使扫描线折返时可以匹配音乐的节拍。插入音乐第一个重拍的时间。如果使用offset，只需将其设置为0即可。(为保证兼容性,请尽量设置为0)
 
 **6.** Offset：在此处插入偏移量。它与osu!的偏移量相同。如果shift为1.131秒，则偏移量为1131.建议使用shift。
 
@@ -112,7 +112,7 @@ PCTyx是JCEXE制作的制谱程序。作为Project Thrynox的继任者。该指�
 
 此处未列出：Direction
 
-单击它，您会看到3个不同的选项：Blank，U / D和D / U. 如果您希望扫描线从顶部开始并在第一页上下移，则选择U / D. 如果您希望扫描线从底部开始，请选择D / U. Blank是你不在乎的时候扫线方向的时候的选项。除非你知道你在想要什么效果，否则在大多数情况下将它留空是更好的。
+单击它，您会看到3个不同的选项：Blank，U / D和D / U。 如果您希望扫描线从顶部开始并在第一页上下移，则选择U / D。如果您希望扫描线从底部开始，请选择D / U。Blank是你不在乎的时候扫线方向的时候的选项。除非你知道你在想要什么效果，否则在大多数情况下将它留空是更好的。
 
 
 
@@ -120,13 +120,13 @@ PCTyx是JCEXE制作的制谱程序。作为Project Thrynox的继任者。该指�
 
 
 
-![img](https://lh5.googleusercontent.com/Y3A6bkM8D5c92ATRvKI0cDFX_6XXop20AsK7yZpC8pTdi6nKWkSznZ7dWhMGUdFYf6jhqg3VoBZCowA0MSHn_XVp4es4JZdI74WV8bRNMIq-MR54-w=w1175)
+![img](./10.png)
 
 
 
-**1.** 行（Row）：取决于你的BPM，但8和16是4/4图表的好例子。如果您没有正确选择，那么您将很难将note对音。
+**1.** 行（Row）：取决于你的BPM，8和16是4/4拍音乐制谱的常用行数。如果您没有选择正确的grid，您将很难将note对音。
 
-**2.** 列（Column）：制谱你想要多少列，18,6,24,12和20是很常用的值。
+**2.** 列（Column）：制谱时你想要多少列，18,6,24,12和20是很常用的值。
 
 **3.** BPM：没有意义。
 
@@ -138,7 +138,7 @@ PCTyx是JCEXE制作的制谱程序。作为Project Thrynox的继任者。该指�
 
 
 
-![img](https://lh6.googleusercontent.com/7d1OCt9HikmGiYIUueXpEdX4LUFOwmqScsnG0j6Cm9MlyjRhyxXHrYDB5x1niPxVdHgnDZlXCPUkz9OwCArp1OUDXuejRg0Mwm1MmwkM1VbLqxacWCI=w1175)
+![img](./12.png)
 
 
 
@@ -150,7 +150,7 @@ PCTyx是JCEXE制作的制谱程序。作为Project Thrynox的继任者。该指�
 
 **4.** 点击note（click）：将您的note类型更改为click，也可用于删除note。
 
-**5.** 锁链头note（drag）：将note类型更改为锁链头。您可以按Q键分配锁链ID以增加ID值，按E键以减少ID值。具有相同ID值的锁链将被链接，而不同的锁链将不会链接。请参考谱面格式的锁链部分。
+**5.** 锁链头note（drag）：将note类型更改为锁链头。您可以按Q键分配锁链ID以增加ID值，按E键以减少ID值。具有相同ID值的锁链将被连接，而不同的锁链将不会链接。请参考谱面格式的锁链部分。
 
 **6.** 子锁链note：将note类型更改为子锁链note类型。与5类似操作。
 
@@ -164,11 +164,11 @@ PCTyx是JCEXE制作的制谱程序。作为Project Thrynox的继任者。该指�
 
 **11.** 撤销：撤销您对该页面的更改。
 
-**12.** 页面导航：拖动小圆圈，您可以使用它来浏览页面。当您在页面中移动1页时，请使用向左箭头和向右箭头。
+**12.** 页面导航：拖动小圆圈，您可以使用它来浏览所有页面。当您在页面中移动1页时，请使用向左箭头和向右箭头。
 
 
 
-![img](https://lh3.googleusercontent.com/Px-0FbdM419CX5YnZC2pPV4zoR1d1MgMi9kOxNSNur2A1rgQ1lueMRQmvX8k03yFNiVtfmEP_zSMrwbYATUPt40akdVjscFDcmaC0KAdCEPdOBwamw=w1175)
+![img](./13.png)
 
 #### I）放置note，使用hold
 
@@ -198,9 +198,9 @@ Note 6和7仅适用于c2格式的谱面。Note 6是long hold（或者跨屏hold�
 
 
 
-![img](https://lh6.googleusercontent.com/cZb8MwreIS7FbA69ij47fGUF-ZGQcikakuPNBZYx2qXE0BBjgsMfCJXM16nrzE3X_RethYsUs-m4hoeUW4GvTmfi5NKqJl1cZawM316ks4_8X7C_ig=w572)
+![img](./14.png)
 
-![img](https://lh3.googleusercontent.com/VKBgQCCOd1Qii4_8QSed2m7M5ZzwHBV1iwxA9SlQ3V8wWMe6QjVjx1n66-GTTP7aTZFihWNPH1W4UzkRFM5ZtwSJZjBvuHwhsXXQ6HwTKZ_mr6JAY3ZM=w572)
+![img](./11.png)
 
 #### II）锁链
 
