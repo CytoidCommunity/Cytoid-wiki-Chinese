@@ -21,9 +21,9 @@ https://www.dropbox.com/s/z74mvodzk9u4zsc/suconh.i%20%28with%20storyboard%29.zip
 https://www.notion.so/Storyboarding-Basics-7897a9b0112841b09bd5e0b465d22a51 - 故事板“基础”。这不是必读内容，因为网站上的信息并不实用。<br>
 <br>
 <br>
-如果你对故事板有疑问，不妨问问这些创作者：
-    * TigerHix <br>
-    * PTB10 <br>
-    * Wanderer Zariq <br>
-    * Fizzest <br>
-    * CrowFX <br>
+如果你对故事板有疑问，不妨问问这些创作者：<br>
+    *TigerHix <br>
+    *PTB10 <br>
+    *Wanderer Zariq <br>
+    *Fizzest <br>
+    *CrowFX <br>
