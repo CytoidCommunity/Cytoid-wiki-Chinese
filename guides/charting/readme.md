@@ -13,3 +13,6 @@
 
 [在Cytoid中游玩](https://github.com/Teages/Cytoid-wiki-Chinese/blob/master/guides/charting/playing_on_cytoid.md)
 
+[其他要注意的(重点)](https://github.com/Teages/Cytoid-wiki-Chinese/tree/master/guides/charting/extra)
+
+请在开始制谱前阅读**全部**内容.
