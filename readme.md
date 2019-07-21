@@ -12,25 +12,27 @@
 
 ## 快速开始
 
-[作为玩家访问]()
+[作为玩家访问](https://github.com/Teages/Cytoid-wiki-Chinese/tree/master/gameplay)
 
-[作为谱师访问]()
+[作为谱师访问](https://github.com/Teages/Cytoid-wiki-Chinese/tree/master/guides)
 
 ## 分类
 
-[主页]()
+[主页](https://github.com/Teages/Cytoid-wiki-Chinese/tree/master/home)
 
-[游玩]()
+[游玩](https://github.com/Teages/Cytoid-wiki-Chinese/tree/master/gameplay)
 
-[活动]()
+[活动](https://github.com/Teages/Cytoid-wiki-Chinese/tree/master/events)
 
-[指南]()
+[指南](https://github.com/Teages/Cytoid-wiki-Chinese/tree/master/guides)
 
-[资源]()
+[获取工具资源](https://github.com/Teages/Cytoid-wiki-Chinese/tree/master/resources)
 
 ## 你可以做的
 
-想要为该文章做出贡献? 点击[这里]()
+想要为该文章做出贡献? 
+
+请尝试为TigerHix捐款.
 
 ## 版权说明 & 特别感谢
 

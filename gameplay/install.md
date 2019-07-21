@@ -15,6 +15,6 @@
 
 ## 为初学者推荐的谱面集合
 
- [入门谱面](https://www.google.com/url?q=https%3A%2F%2Fcytoid.io%2Fcollections%2Fgetting-started&sa=D&sntz=1&usg=AFQjCNHK7Y2bz3Rkr4-FxnUbK3pjxz-uVw)
+ [入门谱面](https://cytoid.io/collections/getting-started
 
-[对拇指党友好的谱面 - 初学者版](https://www.google.com/url?q=https%3A%2F%2Fcytoid.io%2Fcollections%2Fthumb_friendly-beginner.collection&sa=D&sntz=1&usg=AFQjCNGgYqFAjoaRWWSYyMTnylwpgqy9rg)
+[对拇指党友好的谱面 - 初学者版](https://cytoid.io/collections/thumb_friendly-beginner.collection)
