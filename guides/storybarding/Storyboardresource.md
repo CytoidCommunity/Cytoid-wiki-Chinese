@@ -1,8 +1,11 @@
 # 故事板资源
-#### Cytoid故事板模板
+
+## Cytoid故事板模板
 * [这里](https://drive.google.com/file/d/1UOnz5cWR4LDFNlSj6OuIYJZS2DUE0_r7/view)有4种线速变化提示和其他的警告特效。你可以把它们加入到你的cytoid谱面当中。同时我还上传了psd文件，你可以编辑线速变化的图标。<br>
-<br>
-#### 这里是一些可以提升你创作故事板体验的网站和程序： <br>
+
+
+
+## 这里是能够提升你制作故事板体验的程序和网站：
 https://www.dropbox.com/s/ik0gg58  - 还没下载Cytoid Player？（注意：所有的可视化故事板（controller）在这里不会运行）<br>
 <br>
 https://www.notion.so/Full-Specification-4aece3f705d0485495b64564167e76ce  - 建议你常备这个网站。它为你解释了可以用故事板实现的许多效果。注意，虽然有很多隐藏内容不被包含在内，它已经可以满足绝大部分的需求。<br>
@@ -18,9 +21,9 @@ https://www.dropbox.com/s/z74mvodzk9u4zsc/suconh.i%20%28with%20storyboard%29.zip
 https://www.notion.so/Storyboarding-Basics-7897a9b0112841b09bd5e0b465d22a51 - 故事板“基础”。这不是必读内容，因为网站上的信息并不实用。<br>
 <br>
 <br>
-如果你对故事板有疑问，不妨问问这些创作者：<br>
-* TigerHix <br>
-* PTB10 <br>
-* Wanderer Zariq <br>
-* Fizzest <br>
-* CrowFX <br>
+如果你对故事板有疑问，不妨问问这些创作者：
+    * TigerHix <br>
+    * PTB10 <br>
+    * Wanderer Zariq <br>
+    * Fizzest <br>
+    * CrowFX <br>
