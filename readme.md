@@ -32,13 +32,15 @@
 
 想要为该文章做出贡献? 
 
-请尝试为TigerHix捐款.
+请尝试为[TigerHix](https://github.com/tigerhix/)捐款.
+
+> 在[Cytoid.io](https://cytoid.io)有TigerHix的捐款方式
 
 ## 版权说明 & 特别感谢
 
 文章若无说明,则原文所有者为 [TigerHix](https://github.com/tigerhix/)
 
-~~翻译内容许可未定~~
+~~翻译内容许可未定~~翻译内容遵循MIT分发
 
 ```
 Finally
