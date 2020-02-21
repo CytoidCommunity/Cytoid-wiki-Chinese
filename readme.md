@@ -8,7 +8,7 @@
 
 ## Cytoid
 
-[Cytoid](https://cytoid.io/)是在[App Store](https://itunes.apple.com/us/app/cytoid/id1266582726) ,[Google Play](https://play.google.com/store/apps/details?id=me.tigerhix.cytoid)和[Taptap](https://www.taptap.com/app/158749)在由社区提供支持的触摸屏音乐游戏.
+[Cytoid](https://cytoid.io/)是在[App Store](https://itunes.apple.com/us/app/cytoid/id1266582726) ,[Google Play](https://play.google.com/store/apps/details?id=me.tigerhix.cytoid)和[Taptap](https://www.taptap.com/app/158749),由社区提供支持的,为触摸屏设计的音乐游戏.
 
 ## 快速开始
 
@@ -33,6 +33,8 @@
 想要为该文章做出贡献? 
 
 请尝试为[TigerHix](https://github.com/tigerhix/)捐款.
+
+> ~~捐款别忘了留言催更.jpg~~
 
 > 在[Cytoid.io](https://cytoid.io)有TigerHix的捐款方式
 
