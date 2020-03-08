@@ -40,11 +40,11 @@
 
 ![img](./4.png)
 
-将标签间隔(Label Interval)的值设为$\frac{120}{BPM}$,
+将标签间隔(Label Interval)的值设为'120/BPM`,
 
 如果您绘制有不同BPM的谱面,那么BPM就是您歌曲开头的BPM. 
 
-就这里而言,Marry Me Nightmare以250 BPM开始,所以我们这里输入$\frac{120}{250} = 0.48$
+就这里而言,Marry Me Nightmare以250 BPM开始,所以我们这里输入`120/250 = 0.48`
 
 然后做这些: 
 
