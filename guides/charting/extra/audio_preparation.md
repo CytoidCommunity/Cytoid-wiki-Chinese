@@ -33,17 +33,18 @@
 
 ![img](./3.png)
 
-按Alt + A选择全部音频,然后点击 分析 → Regular Beat Intervalsany
+按Alt + A选择全部音频,然后点击 分析 → 常规间隔标签(Regular Beat Intervals)  
+*注意在新版本的Audacity中，“常规间隔标签”功能在“工具”菜单下而不是"分析"菜单*
 
 能得到这样的窗口
 
 ![img](./4.png)
 
-将Label Interval的值设为`120/BPM` ,
+将标签间隔(Label Interval)的值设为$\frac{120}{BPM}$,
 
 如果您绘制有不同BPM的谱面,那么BPM就是您歌曲开头的BPM. 
 
-就这里而言,Marry Me Nightmare以250 BPM开始,所以我们这里输入`120/250 = 0.48`
+就这里而言,Marry Me Nightmare以250 BPM开始,所以我们这里输入$\frac{120}{250} = 0.48$
 
 然后做这些: 
 
